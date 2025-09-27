@@ -24,7 +24,7 @@ Powered by the **OpenWeather API**, this project transforms raw weather data int
 ---
 
 ## 🚀 Live Demo
-👉 [**View the App**](harmonious-buttercream-c4e594.netlify.app)  
+👉 [**View the App**](https://harmonious-buttercream-c4e594.netlify.app/)  
 
 ---
 
