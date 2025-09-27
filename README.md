@@ -31,6 +31,9 @@ Powered by the **OpenWeather API**, this project transforms raw weather data int
 ## 📸 Preview
 Here’s a sneak peek of the app in action _(Add screenshots/GIFs here)_  
 
+<img width="1400" height="824" alt="image" src="https://github.com/user-attachments/assets/805d4d24-3d97-49bf-8ffe-d4a22ccb71a1" />
+
+
 ---
 
 ## ⚡ How It Works
