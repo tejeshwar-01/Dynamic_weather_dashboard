@@ -55,4 +55,4 @@ Perfect for **learning API integration, DOM manipulation, CSS animations, and fr
 ## 🖥️ Deployment
 1. Fork or clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/dynamic-weather-app.git
+   git clone https://github.com/tejeshwar-01/Dynamic_weather_dashboard.git
